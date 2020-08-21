@@ -1,5 +1,6 @@
-<template>
-  <div id="app">
+<template> 
+<!-- eslint-disable -->
+  <div id="app"> 
     <!-- <div id="nav"> -->
       <!-- <router-link to="/">BUY</router-link> |
       <router-link to="/about">About</router-link> -->
